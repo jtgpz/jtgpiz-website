@@ -16,7 +16,7 @@ const Works = () => {
             <SimpleGrid columns={[1,1,2]} gap={6}>
                 <Section>
                     <WorkGridItem id="DEL" title="DEL - Disaster and Emergency Locator" thumbnail={thumbDEL}>
-                    Disaster and Emergency Locator or "DEL" is a mobile application that applies modern tracking technology to emergency situations that involve public safety.
+                    Disaster and Emergency Locator or DEL is a mobile application that applies modern tracking technology to emergency situations that involve public safety.
                     </WorkGridItem>
 
                     
